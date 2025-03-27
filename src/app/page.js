@@ -42,7 +42,7 @@ export default function Home() {
       <AmoyProvider>
         <Box textAlign="center" marginTop="4">
           <Heading as="h1" size="2xl" marginBottom="8">
-            Hanvi's Test Gallery
+            The KU Blockchain Community Gallery
           </Heading>
           <Box my={4}>
             {" "}
@@ -71,7 +71,7 @@ export default function Home() {
           padding="8"
         >
           <Text fontSize="md" marginBottom="2">
-            Made with 🔥 by the University of Kansas Blockchain Institute
+            Made by the University of Kansas Blockchain Institute
           </Text>
           <Link href={tutorialUrl} isExternal>
             <Button colorScheme="blue" variant="outline" size="sm">
